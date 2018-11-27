@@ -1,151 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/META-INF/Lab2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/Main/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/Rectangle/ColorRectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/Rectangle/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/Rectangle/Position.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/Rectangle/RectangleThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Lab2/Rectangle/RectangleThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle/ApplicationWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle/ColorRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle/RectangleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle/RectangleThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/Lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$5$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/out/production/Lab3/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab3/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/Lab4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/out/production/Lab4/sample/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/out/production/Lab4/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/out/production/Lab4/sample/Max.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/out/production/Lab4/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/Lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Client/MyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Client/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/META-INF/Lab5.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Server/CallBacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Server/MyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Server/MyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Server/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/Server/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/playground/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/out/production/Lab5/playground/MyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Client/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Server/CallBacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Server/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/Server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/Lab6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Client/MyClient$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Client/MyClient$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Client/MyClient$1$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Client/MyClient$1$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Client/MyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Client/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/CallBacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/MyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/MyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$3$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$4$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/out/production/Lab6/Server/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/Client/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/Server/CallBacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/Server/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab6/src/Server/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/Lab7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Main$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Main$2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Main$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Test$ChangeListener.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Test$ChangeMaker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/out/production/Lab7/sample/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab7/src/sample/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -216,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Rectangle/ApplicationWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+            <state relative-caret-position="136">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -329,10 +185,10 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543311877299" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543311893634" />
     <property name="dynamic.classpath" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -463,7 +319,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="1" weight="0.24945295" />
@@ -474,7 +329,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3261105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -618,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Rectangle/ApplicationWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+        <state relative-caret-position="136">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
